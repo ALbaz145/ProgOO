@@ -1,2 +1,9 @@
 # ProgOO
-Aqui se anexaran todos los trabajos de la materia
+- Tecnológico Nacional de México
+- Instituto Tecnológico de Tijuana
+- Departamento de Sistemas y Computación
+- Oscar Esteban Pacheco Cabrera
+- 22211628
+- Programacion Orientada a Objetos
+
+# Indice
