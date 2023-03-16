@@ -8,4 +8,4 @@
 
 # Indice
 
-[Link](./ParadigmaOO/README.md)
+1. [Paradigma Programacion Orientada a Objetos](./ParadigmaOO/README.md)
